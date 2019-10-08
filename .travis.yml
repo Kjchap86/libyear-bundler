@@ -8,4 +8,5 @@ rvm:
 script:
   - bundle exec rubocop
   - bundle exec rspec
-sudo: false
+sudo: True
+
